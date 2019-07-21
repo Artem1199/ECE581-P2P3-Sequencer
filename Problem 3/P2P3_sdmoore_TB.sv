@@ -97,6 +97,8 @@ for (int i = 7; i >= 0; i --) begin //Test WRONG Bit string
 
 end
 
+
+
 #20 $finish;
 
 end

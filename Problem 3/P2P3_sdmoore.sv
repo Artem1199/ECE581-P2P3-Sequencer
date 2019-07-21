@@ -92,7 +92,7 @@ state_t next_state;
 	next_state = s0;
           $display("matched"); //Final stage, outputs message
         end
-	default: $display("SE");
+	default: $display("State Error");
       endcase
 
     end //always_comb
